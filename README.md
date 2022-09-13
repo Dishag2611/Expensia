@@ -2,7 +2,7 @@
 ---
 ## Getting Started
 
-It is a expense tracking website, which helps to achive your financial goals.
+It is an expense tracking website, which helps in achieving your financial goals.
 
 ## Features
 
