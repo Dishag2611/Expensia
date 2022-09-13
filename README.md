@@ -27,29 +27,29 @@ Website Link: https://intense-ravine-12624.herokuapp.com/
 
 ---
 <p align="center">
-  <img src="screenshots/front_pafe(green).png" width="350" title="Upload">
+  <img src="Screenshots/front_page(green).png" width="350" title="Upload">
   </p>
       <p align="center">
-  <img src="screenshots/front_page(pink).png" width="350" title="Upload">
+  <img src="Screenshots/Front_pagr(pink).png" width="350" title="Upload">
   </p>
       <p align="center">
-  <img src="screenshots/login.png" width="350" title="Upload">
+  <img src="Screenshots/login.png" width="350" title="Upload">
   </p>
   <p align="center">
-  <img src="screenshots/signup.png" width="350" title="Upload">
+  <img src="Screenshots/signup.png" width="350" title="Upload">
   </p>
   <p align="center">
-  <img src="screenshots/maindisplay.png" width="350" title="Upload">
+  <img src="Screenshots/maindispaly.png" width="350" title="Upload">
   </p>
   <p align="center">
-  <img src="screenshots/expenseAdd.png" width="350" title="Upload">
+  <img src="Screenshots/expenseAdd.png" width="350" title="Upload">
   </p>
     <p align="center">
-  <img src="screenshots/Upload.png" width="350" title="Upload">
+  <img src="Screenshots/Upload.png" width="350" title="Upload">
   </p>
     <p align="center">
-  <img src="screenshots/charts.png" width="350" title="Upload">
+  <img src="Screenshots/charts.png" width="350" title="Upload">
   </p>
    <p align="center">
-  <img src="screenshots/notes.png" width="350" title="Upload">
+  <img src="Screenshots/notes.png" width="350" title="Upload">
   </p>
