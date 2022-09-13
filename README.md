@@ -1,5 +1,5 @@
 # Expense-Tracker
-
+---
 ## Getting Started
 
 It is a expense tracking website, which helps to achive your financial goals.
@@ -21,11 +21,12 @@ It is a expense tracking website, which helps to achive your financial goals.
 3. Ejs
 4. BootStrap
 
----
 
-Website Link: https://intense-ravine-12624.herokuapp.com/
+## Website Link 
+https://intense-ravine-12624.herokuapp.com/
 
----
+## Screenshots
+
 <p align="center">
   <img src="Screenshots/front_page(green).png" width="350" title="Upload">
   </p>
